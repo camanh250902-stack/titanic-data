@@ -2,7 +2,6 @@
 
 A documented, tested data cleaning workflow that turns the raw Kaggle Titanic training file into a validated, analysis-ready dataset.
 
-Everything lives in one Jupyter notebook: a data quality audit, reusable cleaning functions, validation checks, unit tests, and a record of every cleaning decision with its reasoning.
 
 ## Results at a glance
 
